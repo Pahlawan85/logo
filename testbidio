@@ -423,13 +423,13 @@ https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layo
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5880518f76d13d8e3185c929caab110:1ff4929a663127747e80313eefa21e72
-#EXTINF:-1 type="series" group-title="MALAY" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNZHM_P_IVP_PORT_274x411_7C145_2024925_155745.jpg", Kelas Tahanan Cg Hiragi (2024) S1 E01
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7e9f3035-08ab-56aa-9d5f-dd2c43af8583/default_dash.mpd
+#EXTINF:-1 type="series" group-title="MALAY" group-logo="https://raw.githubusercontent.com/Pahlawan85/VOD/refs/heads/main/ASTRO%20GO.png tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNZHM_P_IVP_PORT_274x411_7C145_2024925_155745.jpg", Kelas Tahanan Cg Hiragi (2024) EPS 1
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7e9f3035-08ab-56aa-9d5f-dd2c43af8583/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3463c5eb09e597fc78299a2d7635910:e0f7bf758408e29941e2dd1408193943
-#EXTINF:-1 type="series" group-title="MALAY" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNZHM_P_IVP_PORT_274x411_7C145_2024925_155745.jpg", Kelas Tahanan Cg Hiragi (2024) S1 E02
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3b327277-a824-5629-89d0-f5e00090e5ee/default_dash.mpd
+#EXTINF:-1 type="series" group-title="MALAY" group-logo="https://raw.githubusercontent.com/Pahlawan85/VOD/refs/heads/main/ASTRO%20GO.png tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNZHM_P_IVP_PORT_274x411_7C145_2024925_155745.jpg", Kelas Tahanan Cg Hiragi (2024) EPS 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3b327277-a824-5629-89d0-f5e00090e5ee/default.mpd
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Queen Woo+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
