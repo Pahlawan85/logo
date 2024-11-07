@@ -1,1 +1,9 @@
-#EXTM3U billed-msg="⚙️ACCOUNT EXPIRED (TV1,TV2 N TV3 ONLY AVAILABLE) | PLEASE CONTACT ADMINISTARTOR TO MORE INFO"
+############################################ACCOUNT INFO###########################################################################################
+
+
+#EXTINF:-1 group-title="ACCOUNT WILL BE EXPIRED 10 DEC 2024" group-logo="https://raw.githubusercontent.com/Pahlawan85/VOD/refs/heads/main/1000_F_37722821_XRooO9waKl94jK3qzrwre3T6kPaAmSG9.jpg" tvg-url="https://raw.githubusercontent.com/Pahlawan85/logo/refs/heads/main/epg" tvg-logo="https://cdn-icons-png.flaticon.com/512/1047/1047690.png", 32 DAYS REMAINING
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://6x.work/thanks.mpd
