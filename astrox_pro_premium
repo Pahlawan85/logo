@@ -15,7 +15,7 @@
 
 #EXTINF:-1 tvg-id="101.astro" ch-number="101" tvg-name="101 TV1 HD" group-title="🇲🇾 ASTRO" group-logo="https://raw.githubusercontent.com/Pahlawan85/VOD/refs/heads/main/ASTRO%20GO.png" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",RTM TV1
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=5
 
 #EXTINF:-1 tvg-id="102.astro" ch-number="102" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png"  tvg-name="TV2 HD" group-title="🇲🇾 ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png",RTM TV2
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
