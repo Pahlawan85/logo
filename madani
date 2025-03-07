@@ -1,15 +1,5 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml" refresh="1440"
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/Jerrie-Aries/EPG/refs/heads/master/epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://github.com/AqFad2811/epg/blob/main/unifitv.xml,https://raw.githubusercontent.com/dbghelp/Singtel-TV-EPG/refs/heads/main/singtel.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/all.xml,https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Plex/all.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,https://www.bevy.be/bevyfiles/indonesiapremium3.xml.gz,https://www.bevy.be/bevyfiles/spain.xml.gz,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz" billed-msg="ASTROX PREMIUM BASIC PACKAGE"
-
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U url-tvg="https://aqfadtv.xyz/epg"
-#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
-
 #EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml, https://aqfadtv.xyz/epg, https://weareblahs.github.io/epg/rtmklik.xml, https://i.mjh.nz/SamsungTVPlus/all.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml, https://epg.kampung.xyz/IPTV.xml, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml, https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml, https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml, https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml, https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml, https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml, https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"  refresh="3600"
 
 ================================================================--------
