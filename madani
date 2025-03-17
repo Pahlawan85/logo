@@ -8,7 +8,7 @@
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
-#EXTINF:-1 tvg-logo="httpus://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="MADANI CHANNEL", TV1 HD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png" group-title="MADANI CHANNEL", TV1 HD
 #EXTVLCOPT:http-referer=https://rtmklik.rtm.gov.my
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 
